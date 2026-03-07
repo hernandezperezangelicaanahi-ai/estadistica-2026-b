@@ -1,9 +1,4 @@
-longitud,latitud,edad_media_de_la_vivienda,
-total_habitaciones,total_cuartos,
-población,
-hogares,
-ingreso_mediano,
-proximidad_al_océano,valor_medio_de_la_vivienda
+longitud,latitud,edad_media_de_la_vivienda,total_habitaciones,total_cuartos,población,hogares,ingreso_mediano,proximidad_al_océano,valor_medio_de_la_vivienda
 -122.23,37.88,41,880,129,322,126,8.3252,NEAR BAY,452600
 -122.22,37.86,21,7099,1106,2401,1138,8.3014,NEAR BAY,358500
 -122.24,37.85,52,1467,190,496,177,7.2574,NEAR BAY,352100
@@ -20644,4 +20639,5 @@ proximidad_al_océano,valor_medio_de_la_vivienda
 -121.22,39.43,17,2254,485,1007,433,1.7,INLAND,92300
 -121.32,39.43,18,1860,409,741,349,1.8672,INLAND,84700
 -121.24,39.37,16,2785,616,1387,530,2.3886,INLAND,89400
+
 
